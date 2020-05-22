@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/3-Scenes/CourseraProject.unity
+    guid: 6d76a0057cc09aa4dad22d7ce4db8c3e
+  - enabled: 1
+    path: Assets/3-Scenes/AR2-Magazine.unity
+    guid: cd3c862e43e6e6540b5ee83fd1c309d7
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 6f2db6e1c66429046b69638c30ffe398,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 23db607e024bee04a82cd3d64d2927ca,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f6c265ba53ae3b84b8e8230dc20c0d02,
+      type: 2}
