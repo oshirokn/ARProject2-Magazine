@@ -1,2 +1,2 @@
 # ARProject2-Magazine
-Augmented Reality Project for Turku Game Lab and TUAS
+Augmented Reality Project, Unity AR Foundations
